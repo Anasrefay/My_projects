@@ -1,3 +1,4 @@
+//this program will draw X in a creative way
 #include<iostream>
 using namespace std;
 int main(){
