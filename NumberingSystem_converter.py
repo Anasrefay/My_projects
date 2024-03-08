@@ -1,3 +1,4 @@
+#this program converts from any numbering system to another
 
 while True:   #to repeat the program all over again
 
